@@ -1,6 +1,7 @@
-Change1 – commit with message as “Change 1 in File1”
-Change2 – commit with message as “Change2 in File1”
+Change1 â€“ commit with message as â€œChange 1 in File1â€
+Change2 â€“ commit with message as â€œChange2 in File1â€
 master
 asdf
+qwerty
 
 
